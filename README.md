@@ -8,6 +8,10 @@
 - 👯 I’m looking to collaborate on: ... Reactjs 
 - 🤔 I’m looking for help with: ... JavaScript
 - 💬 Ask me about: ... Anything 🤷‍♂️ 
-- 📫 How to reach me: ... [Email](mailto:suman845415@gmail.com), [LinkedIn](https://www.linkedin.com/in/ksuman-in) [Portfolio](https://ksuman.in)
 - ⚡ Fun fact: ... loves to eat, Stocking on Instagram, Chai over Coffee 🙌🙌
+
+#### Contact Me
+- [Email](mailto:suman845415@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/ksuman-in) 
+- [Website](https://ksuman.in)
 
